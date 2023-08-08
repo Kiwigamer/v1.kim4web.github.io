@@ -47,6 +47,15 @@ body {
   height: 3rem;
 }
 
+.menu-name {
+    font-size: 2rem;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+    align-self: center;
+    padding: 2rem;
+    color: var(--mail);
+}
+
 .logo {
   position: absolute;
   bottom: 10px;
