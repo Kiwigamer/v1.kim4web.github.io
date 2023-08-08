@@ -31,12 +31,11 @@ body {
   display: flex;
   background-color: var(--sidebar);
   width: 6vw;
-  align-content: flex-end;
-  flex-wrap: wrap;
+  flex-direction: column;
+  place-content: flex-end;
 }
 
 .menu a {
-  margin: auto;
   margin-bottom: 3rem;
 }
 
