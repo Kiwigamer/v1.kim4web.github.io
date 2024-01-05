@@ -13,6 +13,11 @@ body {
   font-family: "Inter";
 }
 
+.work {
+  text-align: center;
+  padding: 2rem;
+}
+
 .elevated {
   background-color: var(--elevated-1);
   border-radius: 1rem;
